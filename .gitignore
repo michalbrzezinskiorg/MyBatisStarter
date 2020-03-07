@@ -1,8 +1,5 @@
 HELP.md
 target/**
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
 
 ### STS ###
 .apt_generated
@@ -29,5 +26,9 @@ build/
 
 ### VS Code ###
 .vscode/
-/database/dump/**
-!/src/
+.mvn/
+src/main/resources/static/
+src/main/resources/templates/
+database/dump/**
+!/database/docker-compose.yml
+!/database/initdb/init.sql
