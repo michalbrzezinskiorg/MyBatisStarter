@@ -26,9 +26,5 @@ build/
 
 ### VS Code ###
 .vscode/
-.mvn/
-src/main/resources/static/
-src/main/resources/templates/
-database/dump/**
-!/database/docker-compose.yml
-!/database/initdb/init.sql
+/database/dump/**
+!/src/
