@@ -1,5 +1,7 @@
 # MyBatisStarter
 
+to get your db to test use for example this: https://medium.com/@migueldoctor/run-mysql-phpmyadmin-locally-in-3-steps-using-docker-74eb735fa1fc
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
